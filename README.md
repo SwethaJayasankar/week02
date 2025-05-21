@@ -1,94 +1,76 @@
-Week 1: Java Basics
+Week 2: Object-Oriented Programming (OOP) in Java
 ===========================================================================================
-    Welcome to the repository for Week 1 of our Java learning journey. This week focused on
-    building a strong foundation in the fundamental concepts of Java programming.
-    Table of Contents
+Welcome to the repository for Week 2 of our Java learning journey. This week focused on building a solid understanding of Object-Oriented Programming (OOP) concepts in Java — one of the most powerful features of the language.
+
+Table of Contents
 ===========================================================================================
 ● Overview
 ● Topics Covered
-    ○ Day 1: Introduction to Java
-    ○ Day 2: Variables, Data Types, and Operators
-    ○ Day 3: Control Flow (Conditional Statements and Loops)
-    ○ Day 4: Arrays
-    ○ Day 5: Strings
-    ○ Day 6: Functions (Methods)
+  ○ Day 1: Classes and Objects
+  ○ Day 2: Constructors
+  ○ Day 3: Inheritance
+  ○ Day 4: Polymorphism
+  ○ Day 5: Abstraction and Interfaces
+  ○ Day 6: Encapsulation and Access Modifiers
 ● Prerequisites
 ● How to Use This Repository
 ● Next Steps
 
-============================================================================================
 Overview
-
-    The first week was dedicated to understanding the core syntax and essential building blocks of
-    the Java programming language. We covered how to write simple Java programs, handle
-    different types of data, control the flow of execution, and work with fundamental data structures
-    like arrays and strings, as well as modularizing code with functions (methods).
-============================================================================================
-
+===========================================================================================
+Week 2 was dedicated to mastering core OOP principles using Java. We covered how to design modular, reusable code using classes and objects, and explored deeper concepts like inheritance, polymorphism, abstraction, and encapsulation. Understanding these principles is crucial for writing clean, scalable, and maintainable Java applications.
 
 Topics Covered
+Day 1: Classes and Objects
+● What are classes and objects
+● Creating classes and instantiating objects
+● Understanding instance variables and methods
+● Difference between class and object
+● Object memory allocation
 
-Day 1: Introduction to Java
------------------------------------------
-    ● What is Java?
-    ● History and importance of Java
-    ● Setting up the Java Development Kit (JDK)
-    ● Writing and running the first Java program (&quot;Hello, World!&quot;)
-    ● Understanding the basic structure of a Java program (classes, main method)
-  
-Day 2: Variables, Data Types, and Operators
------------------------------------------
-    ● Declaring and initializing variables
-    ● Primitive data types (int, double, boolean, char, etc.)
-    
-    ● Non-primitive data types (String - introduced briefly)
-    ● Understanding Java operators (arithmetic, relational, logical, assignment)
-    ● Type casting
-  
-Day 3: Control Flow (Conditional Statements and Loops)
-----------------------------------------------------
-    ● if, else if, and else statements
-    ● switch statement
-    ● for loops
-    ● while loops
-    ● do-while loops
-    ● break and continue statements
-  
-Day 4: Arrays
------------------------------------------------------
-    ● What are arrays?
-    ● Declaring and initializing arrays
-    ● Accessing array elements
-    ● Iterating through arrays
-    ● Multi-dimensional arrays
-Day 5: Strings
------------------------------------------------------
-    ● Introduction to the String class
-    ● Creating String objects
-    ● Common String methods (e.g., length(), charAt(), substring(), equals(),
-    equalsIgnoreCase())
-    ● String concatenation
-    ● String immutability
-    
-Day 6: Functions (Methods)
-----------------------------------------------------
-    ● What are functions/methods?
-    ● Defining and calling methods
-    ● Method parameters and return types
-    ● Method overloading
-    ● Understanding static and void keywords
-===========================================================================================
+Day 2: Constructors
+● Default constructors
+● Parameterized constructors
+● Constructor overloading
+● Calling constructors using this() keyword
+
+Day 3: Inheritance
+● Concept of inheritance
+● extends keyword
+● Single and multilevel inheritance
+● Accessing parent class members using super()
+● Method overriding basics
+
+Day 4: Polymorphism
+● Compile-time (Method Overloading)
+● Runtime (Method Overriding)
+● Use of super and this keywords
+● Benefits of polymorphism
+
+Day 5: Abstraction and Interfaces
+● Abstract classes and abstract methods
+● Implementing interfaces using implements
+● Difference between abstract class and interface
+● Multiple interface implementation
+
+Day 6: Encapsulation and Access Modifiers
+● What is encapsulation
+● Getters and setters
+● Using private, public, protected, and default access
+● Real-life example of encapsulation
+
 Prerequisites
-
-    ● A computer with a supported operating system (Windows, macOS, Linux).
-    ● Java Development Kit (JDK) installed.
-    ● A code editor or Integrated Development Environment (IDE) like VS Code, IntelliJ IDEA,
-    or Eclipse.
 ===========================================================================================
+● Completion of Week 1 (Java Basics)
+● A working Java development environment
+● Familiarity with using a code editor or IDE like IntelliJ, VS Code, or Eclipse
 
 How to Use This Repository
-    
-    This repository is structured to reflect the topics covered each day. You can find code examples,
-    notes, or exercises within the respective daily folders (if available). Feel free to explore the
-    code, run it, and modify it to deepen your understanding.
 ===========================================================================================
+This repository is organized into folders named by day, each focusing on one core OOP concept. Inside each folder, you'll find:
+
+Code examples
+
+Practice problems
+
+Notes or mini-projects (if available)
